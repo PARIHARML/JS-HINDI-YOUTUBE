@@ -72,12 +72,14 @@ num1 = num2 = num3 = 2 + 2;
 
 let gameCounter1 = 100
 let gameCounter2 = ++gameCounter1;
+let gameCounter3 = gameCounter1--;
 // ++gameCounter;
 // --gameCounter;
 // gameCounter++;
 // gameCounter--;
 
 console.log("OUTPUT =", [gameCounter1,gameCounter2]);
+console.log("OUTPUT =", [gameCounter1,gameCounter2,gameCounter3]);
 
 // link to study
 // https://tc39.es/ecma262/multipage/abstract-operations.html

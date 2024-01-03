@@ -22,4 +22,4 @@ console.log(3
     console.log("Type of Age = ",typeof age);
     console.log("Type of Name = ",typeof name);
     console.log("Type of Null = ",typeof null); // type of null is object//
-    console.log("Type of Undefined = ",typeof undefined);//typeof undefined iS itself undefined because ye apne aap ne ek type hai Java script mE//
+    console.log("Type of Undefined = ",typeof undefined);//typeof undefined iS itself undefined because ye apne aap ne ek type hai Java script mE now i understan//
