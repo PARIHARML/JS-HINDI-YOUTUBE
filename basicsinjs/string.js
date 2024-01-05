@@ -5,7 +5,7 @@ const repoCount = 50
 
 console.log(`Hello my NAme iS ${name} and MY repo count is ${repoCount}`);
 
-const gameName = new String('Naveensp@parihar')//new keyword ka use kar k hm object use karte java script k andr//
+const gameName = new  String('Naveensp@parihar')//new keyword ka use kar k hm object use karte java script k andr//
 
 console.log("OUTPUT AAYEGA =",gameName);
 console.log("OUTPUT AAYEGA =",gameName[1]);
