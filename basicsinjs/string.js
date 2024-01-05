@@ -41,12 +41,12 @@ console.log("OUTPUT AAYEGA =",newString2);
 
 const gameName1 = String('Naveen-sp-@parihar')
 
-console.log(gameName1.split('-'));
+console.log("OUTPUT AAYEGA =",gameName1.split('-'));
 
 const givenString = String('I am naveen now i am studying webdevelopment')
 
 const printString = givenString.split(' ')
 
-console.log(printString[7]);
+console.log("OUTPUT AAYEGA =",printString[7]);
 
 
