@@ -13,7 +13,7 @@ const anotherId = Symbol('123')
 
 console.log("OUTPUT =",(id === anotherId));
 
-const bigNum = 45799987765654455665n//if we add "n" in the end of big num ,so it considered as bugInt//
+const bigNum = 45799987765654455665n//if we add "n" in the end of big num ,so it considered as bigInt//
 // Reference (Non Primitive)
 
 // Array , Objects, Functions
@@ -41,7 +41,7 @@ console.log("OUTPUT =",typeof Object);
 
 //TYPES OF MEMORY
 // (1.) STACK("IT USES TO STORE PRIMITIVE DATA-TYPES"),
-    //   => jab v stack memory use hoti hai, Yaha m ne jo V variable declear kiya h uska copy ek milta hai
+    //   => jab v stack memory use hoti hai, Yaha m ne jo V variable declear kiya h uska ek copy milta hai
 
 // (2.)  HEAP("IT USES TO STORE NON-PRIMITIVE DATA-TYPES")
 //   => jab v Heap memory use hoti hai. So Yaha m ne jo V variable declear kiya h uska original reference  milta hai matlab original value reference milta H, So jab hm koi v change karege Vo original value mE change hoga//
