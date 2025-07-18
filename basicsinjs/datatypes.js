@@ -23,5 +23,5 @@ console.log(3
     console.log("Type of Name = ",typeof name);
     console.log("Type of Null = ",typeof null); // type of null is object//
     console.log("Type of Undefined = ",typeof undefined);//typeof undefined iS itself undefined because ye apne aap ne ek type hai Java script mE now i understan//
-    console.table([ ("Type of Age = ",typeof age ), ("Type of Name = ",typeof name) , ("Type of Null = ",typeof null) , ("Type of Undefined = ",typeof undefined)]);
+    console.table([ ("Type of Age = ",typeof age ), ("Type of Name = ",typeof name) , ("Type of Null = ",typeof null) ,  ("Type of Undefined = ",typeof undefined)]);
     

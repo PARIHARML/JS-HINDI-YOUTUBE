@@ -13,7 +13,7 @@ const anotherId = Symbol('123')
 
 console.log("OUTPUT =",(id === anotherId));
 
-const bigNum = 45799987765654455665n//if we add "n" in the end of big num ,so it considered as bugInt//
+const bigNum = 45799987765654455665n//if we add "n" in the end of big num ,so it considered as bigInt//
 // Reference (Non Primitive)
 
 // Array , Objects, Functions
